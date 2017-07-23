@@ -6,6 +6,10 @@ https://github.com/AndyA/my-atom-config
 https://github.com/auduchinok/fstar-tutorial
 https://github.com/borjafdezgauna/RLSimion
 https://github.com/bsed/.atom
+https://github.com/catalin-hritcu/fstar-course-bucharest2016
+https://github.com/catalin-hritcu/fstar-course-nancy2017
+https://github.com/catalin-hritcu/fstar-course-paris2017
+https://github.com/catalin-hritcu/fstar-course-saarbrucken2015
 https://github.com/csgordon/rgref-fstar
 https://github.com/daynox/Atom
 https://github.com/DeepSec-prover/certificate
